@@ -1,0 +1,6 @@
+build*
+build-Debug/
+.codelite/
+*.workspace
+*.exe
+*.o
